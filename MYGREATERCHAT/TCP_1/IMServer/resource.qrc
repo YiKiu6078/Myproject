@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>image/offline.gif</file>
+        <file>image/online.jpg</file>
+        <file>image/delete.jpg</file>
+        <file>image/logo.jpg</file>
+        <file>image/Delete.jpg</file>
+    </qresource>
+</RCC>

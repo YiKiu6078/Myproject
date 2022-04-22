@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>picture/QQ.jpg</file>
+        <file>picture/add.jpg</file>
+        <file>picture/theme.jpg</file>
+        <file>picture/Back.jpg</file>
+        <file>picture/AddFriend.jpg</file>
+        <file>picture/AddGroup.jpg</file>
+        <file>picture/registerBack.jpg</file>
+        <file>picture/back.jpg</file>
+        <file>picture/search.jpg</file>
+        <file>picture/min.jpg</file>
+        <file>picture/close.jpg</file>
+        <file>picture/max.gif</file>
+        <file>picture/screenShot.jpg</file>
+        <file>picture/file.jpg</file>
+        <file>picture/Img.jpg</file>
+        <file>picture/rightWidget.jpg</file>
+        <file>picture/ImgTheme.jpg</file>
+        <file>picture/minWindow.png</file>
+        <file>picture/option.jpg</file>
+        <file>picture/QQhead.jpg</file>
+        <file>picture/QQ1.jpg</file>
+        <file>picture/OffLine.jpg</file>
+        <file>picture/Online.jpeg</file>
+        <file>picture/exit.jpg</file>
+        <file>picture/Msg.jpeg</file>
+        <file>picture/MsgMusic.mp3</file>
+        <file>picture/cloud.jpg</file>
+    </qresource>
+</RCC>

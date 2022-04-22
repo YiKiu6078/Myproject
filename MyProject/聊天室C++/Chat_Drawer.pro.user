@@ -1,0 +1,274 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >Chat_Drawer.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >Chat_Drawer</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="QtVersionId" type="int" >3</value>
+   <value key="addQDumper" type="" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="QtVersionId" type="int" >3</value>
+   <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >/home/haubo/workspace/WN_Chat</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="buildConfiguration" type="int" >10</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-gulj4uiq1L,guid=d8b98ea9e5bf1123b80f21b94c0faf9b</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=default</value>
+    <value type="QString" >GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString" >GNOME_KEYRING_PID=8743</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-qcvrom/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-Ka0xZG/S.gpg-agent:8901:1</value>
+    <value type="QString" >GTK_IM_MODULE=scim-bridge</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/haubo/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/haubo</value>
+    <value type="QString" >LANG=zh_CN.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/haubo/qtsdk-2009.02/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=haubo</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-haubo</value>
+    <value type="QString" >PATH=/home/haubo/qtsdk-2009.02/qt/bin:/home/haubo/qtsdk-2009.02/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/haubo/qtsdk-2009.02/bin</value>
+    <value type="QString" >QTDIR=/home/haubo/qtsdk-2009.02/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/haubo-pc:/tmp/.ICE-unix/8753</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-qcvrom/ssh</value>
+    <value type="QString" >USER=haubo</value>
+    <value type="QString" >USERNAME=haubo</value>
+    <value type="QString" >WINDOWPATH=7:7</value>
+    <value type="QString" >XAUTHORITY=/home/haubo/.Xauthority</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=acc7b3a8a967c5837ec6e7664a1cf970-1276096410.295679-2045838474</value>
+    <value type="QString" >XMODIFIERS=@im=SCIM</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/home/haubo/workspace/WN_Chat/Chat_Drawer.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >linux-g++</value>
+    <value type="QString" >-r</value>
+    <value type="QString" >CONFIG+=debug_and_release</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/home/haubo/qtsdk-2009.02/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/haubo/workspace/WN_Chat</value>
+   <value key="buildConfiguration" type="int" >8</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-gulj4uiq1L,guid=d8b98ea9e5bf1123b80f21b94c0faf9b</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=default</value>
+    <value type="QString" >GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString" >GNOME_KEYRING_PID=8743</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-qcvrom/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-Ka0xZG/S.gpg-agent:8901:1</value>
+    <value type="QString" >GTK_IM_MODULE=scim-bridge</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/haubo/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/haubo</value>
+    <value type="QString" >LANG=zh_CN.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/haubo/qtsdk-2009.02/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=haubo</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-haubo</value>
+    <value type="QString" >PATH=/home/haubo/qtsdk-2009.02/qt/bin:/home/haubo/qtsdk-2009.02/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/haubo/qtsdk-2009.02/bin</value>
+    <value type="QString" >QTDIR=/home/haubo/qtsdk-2009.02/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/haubo-pc:/tmp/.ICE-unix/8753</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-qcvrom/ssh</value>
+    <value type="QString" >USER=haubo</value>
+    <value type="QString" >USERNAME=haubo</value>
+    <value type="QString" >WINDOWPATH=7:7</value>
+    <value type="QString" >XAUTHORITY=/home/haubo/.Xauthority</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=acc7b3a8a967c5837ec6e7664a1cf970-1276096410.295679-2045838474</value>
+    <value type="QString" >XMODIFIERS=@im=SCIM</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >release</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/haubo/workspace/WN_Chat</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >release</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-gulj4uiq1L,guid=d8b98ea9e5bf1123b80f21b94c0faf9b</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=default</value>
+    <value type="QString" >GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString" >GNOME_KEYRING_PID=8743</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-qcvrom/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-Ka0xZG/S.gpg-agent:8901:1</value>
+    <value type="QString" >GTK_IM_MODULE=scim-bridge</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/haubo/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/haubo</value>
+    <value type="QString" >LANG=zh_CN.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/haubo/qtsdk-2009.02/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=haubo</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-haubo</value>
+    <value type="QString" >PATH=/home/haubo/qtsdk-2009.02/qt/bin:/home/haubo/qtsdk-2009.02/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/haubo/qtsdk-2009.02/bin</value>
+    <value type="QString" >QTDIR=/home/haubo/qtsdk-2009.02/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/haubo-pc:/tmp/.ICE-unix/8753</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-qcvrom/ssh</value>
+    <value type="QString" >USER=haubo</value>
+    <value type="QString" >USERNAME=haubo</value>
+    <value type="QString" >WINDOWPATH=7:7</value>
+    <value type="QString" >XAUTHORITY=/home/haubo/.Xauthority</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=acc7b3a8a967c5837ec6e7664a1cf970-1276096410.295679-2045838474</value>
+    <value type="QString" >XMODIFIERS=@im=SCIM</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >clean</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/haubo/workspace/WN_Chat</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >Release</value>
+   <value type="QString" >Debug</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>
